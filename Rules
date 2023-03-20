@@ -1,4 +1,5 @@
-[TCP]
+# > PT
+
 HOST-SUFFIX,investing.com,PROXY
 HOST-SUFFIX,totheglory.im,DIRECT
 HOST-SUFFIX,tp.m-team.cc,DIRECT
@@ -22,6 +23,8 @@ HOST-SUFFIX,jerking.empornium.ph,PROXY
 HOST-SUFFIX,fapping.empornium.sx,PROXY
 HOST-SUFFIX,iptorrents.com,DIRECT
 HOST-SUFFIX,iptorrents.com,DIRECT
+
+# > Pokerstars
 HOST-SUFFIX,starsaccount.com,日本
 HOST-SUFFIX,rationalcdn.com,日本
 HOST-SUFFIX,ingest.crittercism.com,日本
@@ -34,5 +37,7 @@ HOST-SUFFIX,888poker.com,日本
 HOST-SUFFIX,gamingajax.com,日本
 HOST-SUFFIX,safe-iplay.com,日本
 HOST-SUFFIX,safe-installation.com,日本
+
+# > OpenAI
 HOST-SUFFIX,ai.com,美国
 HOST-SUFFIX,openai.com,美国
