@@ -24,19 +24,17 @@ HOST-SUFFIX,iptorrents.com,DIRECT
 HOST-SUFFIX,iptorrents.com,DIRECT
 
 # > Pokerstars
-HOST-SUFFIX,starsaccount.com,日本
-HOST-SUFFIX,rationalcdn.com,日本
-HOST-SUFFIX,ingest.crittercism.com,日本
-HOST-SUFFIX,pokerstars.com,日本
-HOST-SUFFIX,pokerstarscashier.com,日本
-HOST-SUFFIX,starscrm.com,日本
-HOST-SUFFIX,urbanairship.com,日本
-HOST-SUFFIX,images4us.com,日本
-HOST-SUFFIX,888poker.com,日本
-HOST-SUFFIX,gamingajax.com,日本
-HOST-SUFFIX,safe-iplay.com,日本
-HOST-SUFFIX,safe-installation.com,日本
+HOST-SUFFIX,starsaccount.com,Poker
+HOST-SUFFIX,rationalcdn.com,Poker
+HOST-SUFFIX,ingest.crittercism.com,Poker
+HOST-SUFFIX,pokerstars.com,Poker
+HOST-SUFFIX,pokerstarscashier.com,Poker
+HOST-SUFFIX,starscrm.com,Poker
+HOST-SUFFIX,urbanairship.com,Poker
+HOST-SUFFIX,images4us.com,Poker
+HOST-SUFFIX,888poker.com,Poker
+HOST-SUFFIX,gamingajax.com,Poker
+HOST-SUFFIX,safe-iplay.com,Poker
+HOST-SUFFIX,safe-installation.com,Poker
 
-# > OpenAI
-HOST-SUFFIX,ai.com,美国
-HOST-SUFFIX,openai.com,美国
+
